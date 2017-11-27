@@ -3,7 +3,7 @@ title: Spenden
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 6
+sub_weight: 60
 permalink: /mitmachen/spenden/
 ---
 

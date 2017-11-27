@@ -3,7 +3,13 @@ layout: main
 ---
 
 <header>
-  <h2 class="post-title">{{ page.title }}</h2>
+  <h2 class="post-title">
+  {% if page.title_long %}
+  {{ page.title_long }}
+  {% else %}
+  {{ page.title }}
+  {% endif %}
+  </h2>
 </header>
 <div class="box">
   {{ content }}

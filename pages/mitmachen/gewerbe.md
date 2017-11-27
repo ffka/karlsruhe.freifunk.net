@@ -3,7 +3,7 @@ title: Gewerbetreibende und Vereine
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 6
+sub_weight: 50
 permalink: /mitmachen/informationen-fuer-gewerbetreibende-und-vereine/
 ---
 
